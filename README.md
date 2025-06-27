@@ -138,13 +138,4 @@ This saves annotated videos as:
 ## Developed By
 
 **Subiksha Anand**
-Intern, AI Agent Development
-International Institute of SDGs and Public Policy Research (IISPPR)
 
----
-
-##  Tips
-
-* If detection boxes don’t appear: check frame visibility or adjust detection confidence.
-* Want to use GPU? Ensure CUDA is installed and Torch detects your GPU.
-* Videos too fast? Use slowed-down versions during annotation for clarity.
