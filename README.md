@@ -80,6 +80,7 @@ This generates:
 
 * `outputs/detections_broadcast.json`
 * `outputs/detections_tacticam.json`
+* find the json files here:- https://drive.google.com/drive/folders/1osQfcVx3a14IKqhlMuawgSy1uqIum7BB?usp=sharing
 
 ---
 
