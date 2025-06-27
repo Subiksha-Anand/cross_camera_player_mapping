@@ -1,4 +1,4 @@
-# 📝 Project Report: Cross-Camera Football Player Mapping & Annotation
+# Project Report: Cross-Camera Football Player Mapping & Annotation
 
 ## Objective
 
