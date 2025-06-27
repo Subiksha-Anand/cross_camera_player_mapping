@@ -1,4 +1,4 @@
-# 🎯 Cross-Camera Football Player Mapping & Annotation
+# Cross-Camera Football Player Mapping & Annotation
 
 This project detects football players in two videos taken from different camera views (broadcast and tacticam), matches player identities across those views, and generates annotated videos with consistent player IDs.
 
